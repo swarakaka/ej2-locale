@@ -8,6 +8,7 @@ Locale translations for Essential JS 2 components in multiple languages.
 | ------------ | ------------------------------ |
 | ar-AE        | Arabic - United Arab Emirates  |
 |ar            | Arabic - Arabia               |
+| ckb        | Kurdish - Central Kurdish       |
 | cs        | Czech - Czech Republic         |
 | da      | Danish - Denmark               |
 | de       | German - Germany               |
